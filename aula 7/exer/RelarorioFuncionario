@@ -1,0 +1,7 @@
+public class RelarorioFuncionario {
+    public void salvar(Funcionario funcionario) {
+        System.out.printf(
+            "Gerando relariorio para %S...%n", funcionario.getNome());  
+        )
+    }
+}
